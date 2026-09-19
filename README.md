@@ -223,4 +223,4 @@ Pure is offered as a full free version with all features and updates included, e
 Get ready to rev your engines and experience the thrill of quad racing with Pure! Download now and join the race!
 
 ---
-**Last updated:** 2026-09-19 19:05:37 UTC
+**Last updated:** 2026-09-19 21:56:47 UTC
